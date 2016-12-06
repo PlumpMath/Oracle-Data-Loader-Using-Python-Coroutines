@@ -7,7 +7,7 @@ time /home/py36/Python-3.6.0b4/python coro_data_load.py  -c chunked_load_test.py
 ```
 ##Result
 184mil records loaded in 45 min.
-(It would take 4.5 hours to load using Single SQLLoader session)
+(It would take 4.5 hours to load using single SQLLoader session)
 ```
 ....
 0 max chunk #77 209715200 buffer: 17574400-> 227289600
